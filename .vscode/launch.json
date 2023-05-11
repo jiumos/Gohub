@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+        "name": "Golang",
+        "type": "go",
+        "request": "launch",
+        "program": "${fileDirname}",
+        "env": {
+            "GOPATH": "D:/Project/Go_project/go.mod",   //调整为实际设置目录
+            "GOROOT": "D:/Program/Software/Go",  //调整为实际设置目录
+        },
+        "args": []
+    }
+    ]
+}
