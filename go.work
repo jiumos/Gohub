@@ -4,3 +4,5 @@ use (
 	.\Demo\
 	.\ModuleA\
 )
+
+replace MA v1.0  => ./ModuleA

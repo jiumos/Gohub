@@ -2,7 +2,7 @@ package main
  
 import (
     "fmt"
-    "github.com/unitymarvel/ModuleA"
+    "github.com/jiumos/Gohub/ModuleA"
 )
  
 func main() {
